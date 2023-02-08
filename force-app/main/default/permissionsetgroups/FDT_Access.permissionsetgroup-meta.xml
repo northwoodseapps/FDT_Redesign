@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>FDT Access</label>
+    <permissionSets>Forms_Design_App</permissionSets>
+    <permissionSets>OBJ_Account_CRE</permissionSets>
+    <permissionSets>OBJ_Case_CRED</permissionSets>
+    <permissionSets>OBJ_Contacts_CRE</permissionSets>
+    <permissionSets>Time_Stamp_CRE</permissionSets>
+    <permissionSets>Traverse_Form_CRE</permissionSets>
+    <status>Updated</status>
+</PermissionSetGroup>
